@@ -42,5 +42,5 @@
 
 </details>
 
-[linkedin]: (https://www.linkedin.com/in/zach-imerzel/)
+[linkedin]: https://www.linkedin.com/in/zach-imerzel/
 
