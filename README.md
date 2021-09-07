@@ -36,16 +36,11 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Zimerzel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zimerzel&show_icons=true&hide_border=true" />
 
 </details>
 
-[linkedin]: www.linkedin.com/in/zach-imerzel.com
+[linkedin]: www.linkedin.com/in/zach-imerzel
 
