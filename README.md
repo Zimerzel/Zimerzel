@@ -33,7 +33,6 @@
 [<img align="left" alt="Json web token" width="26px" src="http://jwt.io/img/logo-asset.svg" />]
 [<img align="left" alt=".Env" width="26px" src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.png" />]
 [<img align="left" alt="bcrypt" width="26px" src="https://stackjava.com/wp-content/uploads/2018/03/bcrypt-logo-250x250.jpg" />]
-[<img align="left" alt="Stripe" width="26px" src="https://twitter.com/stripe/photo" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
