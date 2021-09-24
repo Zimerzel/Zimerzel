@@ -6,6 +6,18 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
+### Current Technologies/Languages I'm learning :
+
+-Angular
+
+-Firebase
+
+-Vue
+
+-Python
+
+-Java
+
 ### Connect with me:
 
 [<img align="left" alt="Zimerzel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
