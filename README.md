@@ -43,7 +43,7 @@
 <img align="left" alt="Mongoose" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Json web token" width="26px" src="http://jwt.io/img/logo-asset.svg" />
+<img align="left" alt="Json web token" width="56px" src="http://jwt.io/img/logo-asset.svg" />
 <img align="left" alt=".Env" width="26px" src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.png" />
 <img align="left" alt="bcrypt" width="26px" src="https://stackjava.com/wp-content/uploads/2018/03/bcrypt-logo-250x250.jpg" />
 <img width="26px" src="https://vuejs.org/images/logo.png" alt="Vue logo">
