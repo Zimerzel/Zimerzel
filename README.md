@@ -18,6 +18,8 @@
 
 -Java
 
+-Typescript
+
 ### Connect with me:
 
 [<img align="left" alt="Zimerzel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
