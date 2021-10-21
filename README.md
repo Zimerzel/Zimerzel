@@ -10,11 +10,7 @@
 
 -Angular
 
--Firebase
-
 -Vue
-
--Python
 
 -Java
 
