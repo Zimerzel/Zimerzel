@@ -66,6 +66,6 @@
 
 ### Connect with me!
 -----------------------------------------------------------------
-[<img align="left" alt="Zimerzel | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
+[<img align="left" alt="Zimerzel | LinkedIn" width="50px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/zach-imerzel/
