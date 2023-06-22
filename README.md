@@ -15,7 +15,8 @@
 -----------------------------------------------------------------
 <br />
 
-<img align="left" alt="Zimerzel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zimerzel&show_icons=true&hide_border=true" />
+![Zimerzel's Stats](https://github-readme-stats.vercel.app/api?username=Zimerzel&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![Zimerzel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zimerzel&theme=midnight-purple&hide_border=true)
 
 <br />
 <br />
