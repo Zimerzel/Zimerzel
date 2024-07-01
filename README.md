@@ -15,7 +15,7 @@
 -----------------------------------------------------------------
 <br />
 
-![Zimerzel's Stats](https://https://github-readme-stats-git-master-zachs-projects-72970166.vercel/api?username=Zimerzel&theme=midnight-purple&show_icons=true&hide_border=true&count)
+![Zimerzel's Stats](https://https://github-readme-stats-alpha-six-15.vercel.app/api?username=Zimerzel&theme=midnight-purple&show_icons=true&hide_border=true&count)
 
 ![Zimerzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zimerzel&show_icons=true&theme=radical)
 
