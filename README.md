@@ -15,7 +15,7 @@
 -----------------------------------------------------------------
 
 ### Currently Playing
-[![Spotify](https://spotify-now-playing-sigma-vert.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/imerzel)
+[![Spotify](https://spotify-now-playing-sigma-vert.vercel.app.vercel.app/api/spotify)]
 
 <br />
 
