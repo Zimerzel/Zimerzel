@@ -5,12 +5,12 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I have an old FJ60 Landcruiser that I built over 3yrs as an overlanding rig!
 - 🤖 Experimenting with AI and machine learning
+  
 
 -----------------------------------------------------------------
 
 <br />
 
-### Current work jam
 ![Spotify](https://spotify-now-playing-sigma-vert.vercel.app/api/spotify?background_color=000000&border_color=7e27c4)
 
 ![Zimerzel's GitHub stats](https://github-readme-stats-alpha-six-15.vercel.app/api?username=Zimerzel&show_icons=true&theme=midnight-purple&hide_border=true)
