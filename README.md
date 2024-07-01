@@ -18,13 +18,9 @@
 
 <br />
 
-&nbsp;<div align="center">
-![Zimerzel's GitHub stats](https://github-readme-stats-alpha-six-15.vercel.app/api?username=Zimerzel&show_icons=true&theme=midnight-purple)
-</div>
+![Zimerzel's GitHub stats](https://github-readme-stats-alpha-six-15.vercel.app/api?username=Zimerzel&show_icons=true&theme=midnight-purple&hide_border=true)
 
-&nbsp;<div align="center">
 ![Zimerzel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zimerzel&theme=midnight-purple&hide_border=true)
-</div>
 
 ### Languages
 
