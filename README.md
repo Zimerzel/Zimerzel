@@ -15,7 +15,9 @@
 -----------------------------------------------------------------
 
 ### Currently Jamming to
-[![Spotify](https://spotify-now-playing-git-main-zachs-projects-72970166.vercel.app/api/spotify)]
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</div>
 
 <br />
 
