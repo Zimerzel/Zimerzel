@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I have an old FJ60 Landcruiser that I built over 3yrs as an overlanding rig!
 - 🤖 Experimenting with AI and machine learning
-- 
+
 -----------------------------------------------------------------
 
 <br />
