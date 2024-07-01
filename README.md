@@ -13,6 +13,10 @@
 
 
 -----------------------------------------------------------------
+
+### Currently Playing
+[![Spotify](https://spotify-now-playing-sigma-vert.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/imerzel)
+
 <br />
 
 ![Zimerzel's GitHub stats](https://github-readme-stats-alpha-six-15.vercel.app/api?username=Zimerzel&show_icons=true&theme=midnight-purple)
