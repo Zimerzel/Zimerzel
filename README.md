@@ -16,7 +16,7 @@
 
 ### Currently Jamming to
 &nbsp;<div align="center">
-  [![Spotify](https://spotify-now-playing-git-main-zachs-projects-72970166.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]
+[![Spotify](https://spotify-now-playing-git-main-zachs-projects-72970166.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 </div>
 
 <br />
