@@ -1,20 +1,12 @@
 
 
-### Hi there, I'm Zach Imerzel👋
+## Hi there, I'm Zach Imerzel👋
 
-### Current Technologies/Languages I'm learning :
-<br />
-
- ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+### Currently playing on Spotify
+[![Spotify](https://spotify-now-playing-sigma-vert.vercel.app/api/spotify?background_color=000000&border_color=7e27c4)]
 
 
 -----------------------------------------------------------------
-
-[![Spotify](https://spotify-now-playing-sigma-vert.vercel.app/api/spotify?background_color=000000&border_color=7e27c4)]
 
 <br />
 
