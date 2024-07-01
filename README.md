@@ -11,11 +11,11 @@
 
 <br />
 
-![Spotify](https://spotify-now-playing-sigma-vert.vercel.app/api/spotify?background_color=000000&border_color=7e27c4)
-
 ![Zimerzel's GitHub stats](https://github-readme-stats-alpha-six-15.vercel.app/api?username=Zimerzel&show_icons=true&theme=midnight-purple&hide_border=false&border_color=7e27c4)
 
 ![Zimerzel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zimerzel&theme=midnight-purple&hide_border=false&border=7e27c4)
+
+![Spotify](https://spotify-now-playing-sigma-vert.vercel.app/api/spotify?background_color=000000&border_color=7e27c4)
 
 ### Languages
 
