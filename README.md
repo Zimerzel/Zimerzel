@@ -15,7 +15,7 @@
 -----------------------------------------------------------------
 
 ### Currently Jamming to
-[![Spotify](https://spotify-now-playing-sigma-vert.vercel.app/api/spotify-playing)]
+[![Spotify](https://spotify-now-playing-sigma-vert.vercel.app/api/spotify)]
 
 <br />
 
