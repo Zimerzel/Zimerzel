@@ -14,7 +14,7 @@
 
 -----------------------------------------------------------------
 
-[![Spotify](https://spotify-now-playing-sigma-vert.vercel.app/api/spotify?background_color=#000000&border_color=#7e27c4)]
+[![Spotify](https://spotify-now-playing-sigma-vert.vercel.app/api/spotify?background_color=000000&border_color=#7e27c4)]
 
 <br />
 
