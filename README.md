@@ -14,10 +14,7 @@
 
 -----------------------------------------------------------------
 
-### Currently Jamming to
-&nbsp;<div align="center">
-[![Spotify](https://spotify-now-playing-sigma-vert.vercel.app/api/spotify)]
-</div>
+[![Spotify](https://spotify-now-playing-sigma-vert.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]
 
 <br />
 
