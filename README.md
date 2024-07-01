@@ -17,6 +17,8 @@
 
 ![Zimerzel's Stats](https://github-readme-stats.vercel.app/api?username=Zimerzel&theme=midnight-purple&show_icons=true&hide_border=true&count)
 
+![Zimerzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zimerzel&show_icons=true&theme=radical)
+
 ![Zimerzel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zimerzel&theme=midnight-purple&hide_border=true)
 
 ### Languages
