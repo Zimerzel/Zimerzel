@@ -2,11 +2,6 @@
 
 ## Hi there, I'm Zach Imerzel👋
 
-- 🌱 I’m currently learning everything 🤣
-- 🤖 Experimenting with AI and machine learning
-- ⚡ Fun fact: I have an old FJ60 Landcruiser that I built over a 3yr timespan to be an overlanding rig!
-  
-
 -----------------------------------------------------------------
 
 <br />
